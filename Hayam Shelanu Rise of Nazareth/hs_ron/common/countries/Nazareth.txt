@@ -1,0 +1,71 @@
+graphical_culture = muslimgfx
+
+color = { 62  28  255 }
+revolutionary_colors = { 10  0  1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Aaron #2" = 20
+	"Abel #2" = 20
+	"Simeon #2" = 20
+	"Lazarus #2" = 20
+	"Judah #1" = 20
+	"John #1" = 20
+	"Jesus #1" = 15
+	"Jonathan #2" = 10
+	"Matthew #1" = 10
+	"James #1" = 10
+	
+	"Mary #0" = -1
+	"Salome #0" = -1
+	"Martha #0" = -1
+	"Berenice #0" = -1
+}
+
+leader_names = {
+	Simon
+	Joseph
+	Lazarus
+	Judah
+	John
+	Jesus
+	Ananias
+	Jonathan
+	Matthew/Matthias
+	Manaen
+	James
+}
+
+ship_names = {
+	Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah Malachi
+	Achai Achunai Acre Aharon Alechsandri Ammi Ashdod Beit Bēt Laḥm Chaim Chananel Chaninai 
+	Chanoch Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel Daniel David Dimi Dodai 
+	Dudai Efrayim Eina Elazar Elchanan Haifa Jerusalem Nazareth Rava Ravai Ravi Ravya Reuven 
+	Rivai Saadiah Sechok Shabsai Shalom Shanoi Shemaryah Shemesh Sherira Sheshna Shila Shimon 
+	Shinoi Shlomo Shmuel Sorgo Sulam Tira Yerushaláyim Yisrael Yitzchak Yoel Yosef Yoshiah 
+	Yosi Yuda Zakkai Zelekman Zuiskind
+}

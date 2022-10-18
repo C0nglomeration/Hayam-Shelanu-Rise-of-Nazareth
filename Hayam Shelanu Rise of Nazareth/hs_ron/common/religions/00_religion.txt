@@ -1,0 +1,23 @@
+christian = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 1855 # nazareth | sidun
+	crusade_name = CRUSADE
+	flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 57 }
+
+	nazarene = {
+		color = { 62 28 255 }
+		icon = 1 # PLACEHOLDER ! ! ! !
+		heretic = { JEWISH }
+		country = {
+			tolerance_own = 3
+			global_missionary_strength = 0.03
+			missionaries = 1
+			enforce_religion_cost = -0.5
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+	}
+}
