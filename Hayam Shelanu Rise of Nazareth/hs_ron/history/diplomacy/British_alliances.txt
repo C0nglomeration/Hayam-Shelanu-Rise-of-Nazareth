@@ -1,0 +1,30 @@
+#Tin Sea Alliance
+
+alliance = {
+	first = BNC
+	second = BRI
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+vassal = {
+	first = BNC
+	second = PWY
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+
+vassal = {
+	first = BNC
+	second = CDG
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+vassal = {
+	first = BNC
+	second = GLA
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}

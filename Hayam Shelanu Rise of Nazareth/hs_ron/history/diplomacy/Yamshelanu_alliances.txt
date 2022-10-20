@@ -1,0 +1,109 @@
+#Numidian Empire
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = QRT
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = ATQ
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = ZAM
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = AQO
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = DID
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = MES
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+dependency = {
+	subject_type = "punickingdom"
+	first = NMI
+	second = TPS
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#Pergamon-Asia
+
+vassal = {
+	first = PGM
+	second = ANA
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#Malakanids
+
+vassal = {
+	first = MLA
+	second = BAY
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+vassal = {
+	first = MLA
+	second = MJO
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#Calligans and Britons
+
+vassal = {
+	first = BRI
+	second = CAG
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#Liguria
+
+vassal = {
+	first = GEN
+	second = COR
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#Atlas
+
+vassal = {
+	first = MOR
+	second = TLC
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
