@@ -1,0 +1,18 @@
+government = monarchy
+government_rank = 3
+add_government_reform = malekim_reform
+primary_culture = baalqarti
+religion = canaanism
+technology_group = muslim
+capital = 121	#Baalqart
+
+
+1420.1.18 = {
+	monarch = {
+		name = "Yuliyus"
+		dynasty = "ba'Ruma"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

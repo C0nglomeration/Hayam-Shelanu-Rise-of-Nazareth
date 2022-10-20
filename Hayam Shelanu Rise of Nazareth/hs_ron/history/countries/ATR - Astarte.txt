@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = malekim_reform
+primary_culture = astartean
+religion = canaanism
+technology_group = muslim
+capital = 1745	# Santander

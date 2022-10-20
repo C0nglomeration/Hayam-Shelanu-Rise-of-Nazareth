@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = lydian
+add_accepted_culture = carian
+add_accepted_culture = lycian
+religion = hellenic_pagan
+capital = 4309	# Aydin

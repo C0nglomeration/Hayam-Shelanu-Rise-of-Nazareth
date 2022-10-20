@@ -1,0 +1,7 @@
+government = monarchy
+government_rank = 1
+add_government_reform = feudalism_reform
+primary_culture = carthaginian
+religion = canaanism
+technology_group = muslim
+capital = 2455	# Utica

@@ -1,0 +1,6 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = italioi
+religion = hellenic_pagan
+capital = 2982	# Syracuse
