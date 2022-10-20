@@ -1,0 +1,79 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 122 86 95 }
+
+revolutionary_colors = { 11  0  11 }
+
+historical_idea_groups = {
+	exploration_ideas
+	expansion_ideas
+	religious_ideas
+	maritime_ideas	
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Hanno #3" = 50
+	"Malchus #0" = 40
+	"Hannibal #2" = 20
+	"Hasdrubal #2" = 20
+	"Hamilcar #1" = 20
+	"Gisco #0" = 20
+	"Bomilcar #0" = 20
+	"Hamud #0" = 20
+	"Eshbaal #0" = 20
+	"Germeqart #0" = 20
+	"Hamilcarenius #0" = 15
+	"Mattan #0" = 15
+	"Yunus #0" = 15
+	"Mago #0" = 10
+	"Himil #0" = 10
+	"Bodmelqart #0" = 0
+	"Bomilcar #0" = 0
+	"Torgud #0" = 0
+	
+	"Dido #3" = -30
+	"Abdosir #0" = -10
+	"Astarte #0" = -1
+	"Fatima #0" = -1
+	"Tamar #0" = -1
+	"Batnoam #0" = -1
+	"Sophonisba" = -1
+	"Sappho #0" = -1
+}
+
+leader_names = {
+	Taher
+	Akimi
+	Adhoum
+	Hakimi
+	Naybet
+	Bassir
+	Saber
+	Badra
+	Sassi
+	Dali
+	Hannibal
+	Hasdrubal
+	Himilico
+	Bomilicar
+}
+
+ship_names = {
+	"Qart Hadasht" "Marsala" "Galah" "Tharelid" "Dalilid" "Syrakousion" "Hellas" "Rahmat" "Oua" "Punicum" "Tyre" "Heptero" "Hispania" "Tetr" "Hannibalid" "Africannae" "Breaker of the Pillars" "Heracles" "St. Sappho" "Hamat" "Qh" "El" "Yehowah" "Rhodi" "The Arabian" "Dread of the Latin" "Hadashut" "Qart al Dido" "Didoan" "Romulus" "Remus" "Badra"
+}
