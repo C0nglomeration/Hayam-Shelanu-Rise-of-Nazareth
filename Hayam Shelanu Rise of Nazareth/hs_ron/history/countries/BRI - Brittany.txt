@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = malekim_reform
+government_rank = 1
+primary_culture = wened
+religion = canaanism
+technology_group = muslim
+capital = 169
+

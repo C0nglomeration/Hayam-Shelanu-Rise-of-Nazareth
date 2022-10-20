@@ -1,0 +1,8 @@
+government = republic
+add_government_reform = suphetim_reform
+government_rank = 2
+primary_culture = baratanacid
+religion = canaanism
+technology_group = muslim
+capital = 241
+

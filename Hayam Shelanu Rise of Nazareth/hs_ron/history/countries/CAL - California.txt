@@ -1,0 +1,5 @@
+government = republic
+technology_group = western
+primary_culture = castillian
+religion = norse_pagan_reformed
+ capital = 4637

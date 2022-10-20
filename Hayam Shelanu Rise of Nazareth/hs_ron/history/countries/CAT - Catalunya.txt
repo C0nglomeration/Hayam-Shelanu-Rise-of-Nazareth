@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = malekim_reform
+religion = canaanism
+primary_culture = barqan
+technology_group = muslim
+capital = 213	# Barcelona
+
+1444.1.1 = {
+	monarch = {
+		name = "Farvinantha"
+		dynasty = "Abbal"
+		birth_date = 1410.2.10
+		femaye = yes
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	heir = {
+		name = "Yehawmilk"
+		monarch_name = "Yehawmilk III Asabar"
+		dynasty = "Abbal"
+		claim = 95
+		birth_date = 1428.1.1
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+}

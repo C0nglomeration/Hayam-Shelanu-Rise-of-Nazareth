@@ -1,0 +1,7 @@
+government = monarchy
+government_rank = 2
+add_government_reform = malekim_reform
+primary_culture = wened
+religion = canaanism
+technology_group = muslim
+capital = 4386 #Vendee

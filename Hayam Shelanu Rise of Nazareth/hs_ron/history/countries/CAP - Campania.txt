@@ -1,0 +1,11 @@
+government = monarchy
+government_rank = 3
+add_government_reform = feudalism_reform
+primary_culture = swabian
+add_accepted_culture = baalqarti
+add_accepted_culture = umbrian
+add_accepted_culture = italioi
+religion = hellenic_pagan
+secondary_religion = canaanism
+technology_group = western
+capital = 2985
